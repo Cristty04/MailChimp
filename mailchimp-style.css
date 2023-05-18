@@ -1,0 +1,126 @@
+*{
+    text-decoration: none;
+}
+#cabecera {
+    font-size: 50px;
+    padding-left: 15cm;
+    padding-top: 30px;
+    
+
+}
+#p1 {
+    padding-left: 16cm;
+    padding-right: 30px;
+    font-size: 16px
+   
+}
+
+
+#span1{
+    padding-left: 16cm;
+    padding-right: 30px;
+    font-size: 16px
+}
+
+#div2 {
+    padding-left: 16cm;
+    padding-inline-end: 6px;
+    padding-top: 5px;
+}
+
+input {
+    padding-right: 9cm;
+    padding-top: 15px;
+} 
+
+#password1{
+    margin-right: 12px;
+ 
+    
+
+}
+#togglePassword{
+    padding-left: 12cm;
+    padding-bottom: 2px; 
+}
+
+#i{
+    padding-left:13 cm;
+}
+#Show {
+    color: blue;
+    padding-left: 12,5cm;  
+    text-decoration: none; 
+}
+img {
+    width:  200px;
+    height: 200px;
+    padding-top: 50px;
+    padding-left: 200px;
+}
+ul li::marker{
+    color:blue
+}
+
+div.contenido {
+   
+    display: flex;
+    padding-left:15.5cm;
+
+}
+
+
+    .container-one{
+        display: flex;
+        justify-content: flex-end;
+        padding-inline-end: 245px;
+        padding-top: 5px;
+    }
+
+    .boton{
+        padding-top:10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    #check{
+        margin-left: 25px;
+        margin-bottom: 22px;
+        margin-right: 10px;
+    }
+
+    #one{
+        margin-left: 5px;
+       
+    }
+
+    .p1 {
+        display:flex;
+        justify-content: flex-end;
+        padding-inline-end: 213px;
+        
+    }
+
+    .p2 {
+        display:flex;
+        justify-content: flex-end;
+        padding-inline-end: 458px;
+        margin-top: 15px;
+
+    }
+    
+    .footer1{
+        display: flex;
+        justify-content: flex-end;
+        padding-inline-end: 155px;
+    }
+
+    .footer2 {
+        display: flex;
+        justify-content: flex-end;
+        padding-inline-end: 310px;
+
+    }
+
+   
